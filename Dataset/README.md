@@ -1,6 +1,6 @@
 # Data Catalog
 
-# Loan Application Dataset
+## Loan Application Dataset
 
 ## Overview
 This dataset contains detailed records of loan applications, including borrower information, loan characteristics, and repayment history.  
