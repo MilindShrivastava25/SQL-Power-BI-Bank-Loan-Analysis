@@ -31,7 +31,7 @@ Average Interest Rate
 
 Average Debt-to-Income (DTI) Ratio
 
-#### Good vs. Bad Loan KPIs
+### Good vs. Bad Loan KPIs
 
 Good Loan Applications, Funded Amount, and Received Amount
 
