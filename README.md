@@ -67,9 +67,9 @@ Power BI → Interactive dashboard design & visualization
 
 Excel → Data preprocessing and file management
 
+### Below is the Power BI dashboard illustrating key loan portfolio insights.
 # Summary
 <img width="1316" height="739" alt="image" src="https://github.com/user-attachments/assets/4f5c0199-6941-4ecd-b301-4ef5feeee777" />
-
 
 # Overview
 <img width="1320" height="742" alt="image" src="https://github.com/user-attachments/assets/4d8800dd-ec17-4c80-b986-6a37fd83d2da" />
