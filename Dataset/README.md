@@ -39,4 +39,4 @@ It can be used for **financial analysis, credit risk modeling, loan performance 
 
 
 
-<img width="883" height="609" alt="image" src="https://github.com/user-attachments/assets/75acd6fc-c1f7-4346-adf1-6b9d6a20d834" />
+
