@@ -68,7 +68,8 @@ Power BI → Interactive dashboard design & visualization
 Excel → Data preprocessing and file management
 
 # Summary
-<img width="1320" height="738" alt="image" src="https://github.com/user-attachments/assets/8ee1000c-1ae9-4439-9a73-07f212c17aff" />
+<img width="1316" height="739" alt="image" src="https://github.com/user-attachments/assets/4f5c0199-6941-4ecd-b301-4ef5feeee777" />
+
 
 # Overview
 <img width="1320" height="742" alt="image" src="https://github.com/user-attachments/assets/4d8800dd-ec17-4c80-b986-6a37fd83d2da" />
